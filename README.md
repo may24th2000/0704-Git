@@ -1,2 +1,2 @@
 # 0704-Git
-와빅 과제 제출용
+https://github.com/jwoh1014/230704GIT)https://github.com/jwoh1014/230704GIT
